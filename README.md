@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ritu8235raj@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGIg8X47Ws/x2Qtu1qiN7D4kYsi-BdnTQ/view?utm_content=DAGIg8X47Ws&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGIg8X47Ws/x2Qtu1qiN7D4kYsi-BdnTQ/view?utm_content=DAGIg8X47Ws&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGIg8X47Ws/x2Qtu1qiN7D4kYsi-BdnTQ/view?utm_content=DAGIg8X47Ws&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Resume </a>
 
 - ⚡ Fun fact **I Think I Am Passionatic**
 
