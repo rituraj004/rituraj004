@@ -1,4 +1,4 @@
-![logo](https://github.com/rituraj004/Ritu-Raj/blob/main/banner.jpeg)
+![logo](https://github.com/rituraj004/rituraj004/blob/main/banner.jpeg)
 <h1 align="center"><i>Hi 👋,I'm Ritu Raj</i></h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 <img align="right" alt="coding"  width="400" src="https://media3.giphy.com/media/RJVw6tIfb2dIwTHFb0/200.webp?cid=ecf05e47fxjyg0p1bf1bbthiqw2hrl3z5qily405uwkp0vu8&ep=v1_gifs_search&rid=200.webp&ct=g">
